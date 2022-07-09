@@ -1,2 +1,2 @@
-# ts-kilo
-Port Kilo to TypeScript
+# TS-Kilo
+Port Kilo to TypeScript.
